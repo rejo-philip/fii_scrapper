@@ -1,2 +1,3 @@
 # fii_scrapper
-a basic scrapper to scrap fii date
+A basic scripper to scrap participant wise derivative open interest count from NSE.
+
