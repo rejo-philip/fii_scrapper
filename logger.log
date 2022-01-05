@@ -3956,3 +3956,415 @@ DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeR
 WARNING:nse_arc_lib:Response timeed out
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
 DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 146
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 150
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 147
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 147
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 150
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 147
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 147
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 147
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 149
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 147
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 147
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 146
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 146
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 401 272
+WARNING:nse_arc_lib:Response timeed out
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 138
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 138
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 143
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 145
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 148
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 144
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 144
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.nseindia.com:443
+DEBUG:urllib3.connectionpool:https://www.nseindia.com:443 "GET /api/fiidiiTradeReact HTTP/1.1" 200 143
