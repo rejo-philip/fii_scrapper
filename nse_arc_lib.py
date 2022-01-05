@@ -5,6 +5,8 @@ import requests
 import time
 import pandas as pd
 import sys
+import json
+import time
 
 from requests.models import ReadTimeoutError 
 
@@ -71,6 +73,53 @@ def fao_participant_oi(start_date, end_date=None):
     print('3'*50)
     print(df_total)
     return df_total
+
+def fii_latest_values():
+    '''
+    For equity fii , there is no way to check archived data(can be done for dii) so we need to store data in day to day bases
+
+    '''
+
+
+    url_path = f'https://www.nseindia.com/api/fiidiiTradeReact'
+    header = {"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+"cache-control": "max-age=0",
+"sec-fetch-dest": "document",
+"sec-fetch-mode": "navigate",
+"sec-fetch-site": "none",
+"sec-fetch-user": "?1",
+"upgrade-insecure-requests": "1",
+'authority': 'www.nseindia.com',
+'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36'
+}
+    # time set for days for which data is not present
+    flag = False
+
+    while flag == False:
+        time.sleep(2)
+        try :
+            response = requests.get(url_path,timeout=1,headers=header)
+            print(response.text)
+        
+            json_object = json.loads(response.text)
+
+            # stringIO is used os that text can be passed instead of name of file
+            df = pd.DataFrame(json_object)
+            flag = True
+            return df
+
+            # json_object = json.loads(response.text)
+
+            # return json_object
+                        
+            # input("enter to go to next")
+        except :
+            logger.warning(f'Response timeed out')
+        time.sleep(4)
+    
+
+    return None
     
             
         
